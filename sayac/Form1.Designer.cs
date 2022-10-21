@@ -35,10 +35,10 @@
             // 
             // button1
             // 
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.25F);
-            this.button1.Location = new System.Drawing.Point(326, 82);
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 50.25F);
+            this.button1.Location = new System.Drawing.Point(308, 64);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 51);
+            this.button1.Size = new System.Drawing.Size(93, 83);
             this.button1.TabIndex = 0;
             this.button1.Text = "-";
             this.button1.UseVisualStyleBackColor = true;
@@ -46,10 +46,10 @@
             // 
             // button2
             // 
-            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
-            this.button2.Location = new System.Drawing.Point(517, 81);
+            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 50.25F);
+            this.button2.Location = new System.Drawing.Point(517, 64);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 52);
+            this.button2.Size = new System.Drawing.Size(114, 83);
             this.button2.TabIndex = 1;
             this.button2.Text = "+";
             this.button2.UseVisualStyleBackColor = true;
@@ -57,11 +57,12 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(411, 99);
+            this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 50.25F);
+            this.textBox1.Location = new System.Drawing.Point(411, 64);
             this.textBox1.MaximumSize = new System.Drawing.Size(150, 0);
             this.textBox1.MinimumSize = new System.Drawing.Size(100, 0);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 20);
+            this.textBox1.Size = new System.Drawing.Size(100, 83);
             this.textBox1.TabIndex = 2;
             this.textBox1.Text = "0";
             // 
